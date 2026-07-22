@@ -1,0 +1,7 @@
+.claude/settings.local.json
+outputs/checkpoints/
+outputs/final_model/
+*.safetensors
+*.bin
+__pycache__/
+*.pyc
